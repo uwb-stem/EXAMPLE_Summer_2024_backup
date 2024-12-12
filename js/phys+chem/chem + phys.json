@@ -1,0 +1,28 @@
+{
+    "presentations": [
+        {
+            "time": "",
+            "title": "Lead in cinnamon",
+            "studentName": "Raquel Angulo-Morales",
+            "studentMajor": "Chemistry: Bio-chemistry (B.S.)",
+            "facultyAdvisor": "Dr. Dan Jaffe",
+            "poster": ".posters/placeholder/comming_soon.jpg"
+        },
+        {
+            "time": "",
+            "title": "Analysis of Student Outcomes in General Chemistry Lecture",
+            "studentName": "Ethan Gausee",
+            "studentMajor": "Chemistry (B.A.)",
+            "facultyAdvisor": "Dr. Charity Lovitt",
+            "poster": ".posters/placeholder/comming_soon.jpg"
+        },
+        {
+            "time": "",
+            "title": "Designing and Building a Circuit for a Pulsed Laser",
+            "studentName": "Carol Miu\n\nJoey Del Gianni",
+            "studentMajor": "Physics (B.S.)\n\nPhysics (B.S.)",
+            "facultyAdvisor": "Dr. Subramanian Ramachandran",
+            "poster": ".posters/placeholder/comming_soon.jpg"
+        }
+    ]
+}
